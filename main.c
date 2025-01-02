@@ -3,6 +3,8 @@
 
 int main()
 {
+	//one line added
+
     int a=2,b=2;
     int x,y;
     x=a++;
